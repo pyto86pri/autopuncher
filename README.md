@@ -56,5 +56,6 @@ launchdに登録するために、以下のコマンドを実行する。
 $ launchctl load ~/Library/LaunchAgents/autopuncher.in.plist
 ```
 ## TODO
+- テスト
 - エラー処理
 - シャットダウン時の自動実行
